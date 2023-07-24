@@ -1,7 +1,2 @@
-go to my website
-lemoose6.github.io
-
-<!---
-LeMoose6/LeMoose6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Le Moose
+Nielsen Fotis is a student who has a passion for coding. He is currently working on a Taylor Swift Album Ranker. Which is a repository on his github that can be viewed [here](https://github.com/LeMoose6/Taylor-Album-Ranker). He reccomends you visit his website (which he coded when he was 13 and is currently coding a complete redesign). His website can be viewed [here](https://lemoose6.github.io).
